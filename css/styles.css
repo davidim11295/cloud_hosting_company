@@ -356,7 +356,7 @@
     transform: scale(1.05);
 }
 
-@media screen (min-width:1024px){
+@media screen and (min-width:1024px){
     .plan__name {
         font-size: 1.4rem;
     }
