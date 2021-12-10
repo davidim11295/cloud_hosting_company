@@ -817,3 +817,9 @@
         order: 2;
     }    
 }
+
+/* Showcase Block */
+
+.block-showcase__image{
+    width: 100%;
+}
