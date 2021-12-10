@@ -735,3 +735,23 @@
         border: 0;
     }
 }
+
+/* Hero */
+.hero__tagline{
+    font-size: 2rem;
+    color: #b9c3cf;
+}
+
+.hero__image{
+    width: 100%;
+}
+
+@media screen and (min-width:768px){
+    .hero{
+        padding-top: 0;
+    }
+    .hero__content{
+        text-align: left;
+        align-self: center;
+    }
+}
